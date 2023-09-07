@@ -29,13 +29,13 @@ This project provides a RESTful API built with Express.js to download TikTok vid
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/joenior/tiktok-video-downloader-api.git
+git clone https://github.com/joenior/tiktok-downloader-api.git
 ```
 
 Install the required dependencies:
 
 ```
-cd tiktok-video-downloader-api
+cd tiktok-downloader-api
 npm install
 ```
 
