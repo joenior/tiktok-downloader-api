@@ -1,8 +1,9 @@
-# TikTok Video Downloader API
+# TikTok Video Downloader API (not finished yet)
 
 ![GitHub License](https://img.shields.io/github/license/joenior/tiktok-downloader-api)
 
-A simple Express.js API for downloading TikTok videos without watermark.
+A simple experimental Express.js API for downloading TikTok videos without watermark.
+[vm.tiktok.com & vt.tiktok.com links are not supported yet :(]
 
 ## Table of Contents
 
